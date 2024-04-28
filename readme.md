@@ -1,4 +1,4 @@
-# Autenticação com JWT em PHP
+# Autorização com JWT em PHP
 
 Este é um projeto de autenticação simples em PHP utilizando tokens JWT (JSON Web Tokens). Ele inclui um formulário de login, validação de usuário e senha, geração de token JWT, e um sistema de verificação de token para acesso a páginas protegidas.
 
